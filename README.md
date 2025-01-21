@@ -152,7 +152,7 @@ Pandas : For managing and analyzing data.
 
 
 - WritingScores
-- 
+
 
 ![Screenshot 2025-01-22 003201](https://github.com/user-attachments/assets/f3bfefc6-460b-445e-86b5-9844f159aa70)
 
@@ -176,9 +176,10 @@ Pandas : For managing and analyzing data.
 
 
 
-- Graphical representation of Distribution of Ethnic Groups.
+-  Representation of Distribution of Ethnic Groups.
                                                                                                   
-                                                                                                                                 ![Screenshot 2025-01-22 003233](https://github.com/user-attachments/assets/8085021f-5783-4d82-9132-d0739cb53f3e)
+                                                                                                                                
+![Screenshot 2025-01-22 003233](https://github.com/user-attachments/assets/4b86fc2f-1d11-4861-a987-100267dcfad8)
 
 
 
